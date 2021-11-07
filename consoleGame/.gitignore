@@ -1,0 +1,10 @@
+consoleGame\bin
+consoleGame\obj
+*.suo
+*.user
+*.pdb
+*.cache
+*_svn
+*.svn
+*.build-res
+.vscode

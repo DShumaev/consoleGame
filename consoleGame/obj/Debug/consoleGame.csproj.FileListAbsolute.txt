@@ -1,0 +1,10 @@
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\obj\Debug\consoleGame.csprojAssemblyReference.cache
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CoreCompileInputs.cache
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\bin\Debug\consoleGame.exe.config
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\bin\Debug\consoleGame.exe
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\bin\Debug\consoleGame.pdb
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\obj\Debug\consoleGame.exe
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\obj\Debug\consoleGame.pdb
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\bin\Debug\ConsoleTables.dll
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\bin\Debug\ConsoleTables.pdb
+C:\Users\DShum\Desktop\itransition\3_task\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CopyComplete
